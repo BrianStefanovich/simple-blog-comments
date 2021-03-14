@@ -1,5 +1,5 @@
 # simple-blog-comments
-This is a simple PHP script to manage comments on a blog, and is what I use on my own blog [brianstefanovich.com/blog](brianstefanovich.com/blog).
+This is a simple PHP script to manage comments, and is what I use on my own blog [brianstefanovich.com/blog](brianstefanovich.com/blog).
 
 # Installation
 
